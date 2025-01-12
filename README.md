@@ -30,4 +30,10 @@
 ```diff
 -Если вам не понравилось, моё лицо 
 ```
+
 ![g](https://github.com/user-attachments/assets/f20d3e92-9062-4723-9063-7c8b3105cd6f)
+
+```diff
+-Если вам понравилось, моё лицо 
+```
+![мистер-пятёрка-mr5opka](https://github.com/user-attachments/assets/c43d779f-096e-4328-89aa-34e52c9bb7cf)
